@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Bishal, a curious person, currently working as a Software Engineer and I am skilled in MERN stack. I have 1 year of industrial experience.
+Hi! I'm Bishal, a curious Software Engineer | ex-TCS
 
 
 ## 🌐 Socials:
